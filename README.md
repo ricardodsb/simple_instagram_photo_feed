@@ -12,5 +12,6 @@ Este ejercicio cubre los siguientes fundamentos:
 6. Overflow.
 7. Inserción de varios divs con imágenes.
 
-Para correr el servidor del ejercicio y ver el resultado hay que introducir en la terminal el siguiente codigo: ```sh $ pip3 install flask && python3 server.py
-Para este repositorio localmente en tu computador: ```sh $ git clone https://github.com/ricardodsb/simple_instagram_photo_feed.git
+* Para correr el servidor del ejercicio y ver el resultado hay que introducir en la terminal el siguiente codigo: ```sh $ pip3 install flask && python3 server.py
+* Para clonar este repositorio localmente en tu computador: ```sh $ git clone https://github.com/ricardodsb/simple_instagram_photo_feed.git
+
